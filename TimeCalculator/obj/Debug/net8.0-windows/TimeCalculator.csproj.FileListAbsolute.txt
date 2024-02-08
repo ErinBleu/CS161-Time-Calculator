@@ -1,0 +1,16 @@
+H:\CS161\TimeCalculator\bin\Debug\net8.0-windows\TimeCalculator.exe
+H:\CS161\TimeCalculator\bin\Debug\net8.0-windows\TimeCalculator.deps.json
+H:\CS161\TimeCalculator\bin\Debug\net8.0-windows\TimeCalculator.runtimeconfig.json
+H:\CS161\TimeCalculator\bin\Debug\net8.0-windows\TimeCalculator.dll
+H:\CS161\TimeCalculator\bin\Debug\net8.0-windows\TimeCalculator.pdb
+H:\CS161\TimeCalculator\obj\Debug\net8.0-windows\TimeCalculator.Form1.resources
+H:\CS161\TimeCalculator\obj\Debug\net8.0-windows\TimeCalculator.csproj.GenerateResource.cache
+H:\CS161\TimeCalculator\obj\Debug\net8.0-windows\TimeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+H:\CS161\TimeCalculator\obj\Debug\net8.0-windows\TimeCalculator.AssemblyInfoInputs.cache
+H:\CS161\TimeCalculator\obj\Debug\net8.0-windows\TimeCalculator.AssemblyInfo.cs
+H:\CS161\TimeCalculator\obj\Debug\net8.0-windows\TimeCalculator.csproj.CoreCompileInputs.cache
+H:\CS161\TimeCalculator\obj\Debug\net8.0-windows\TimeCalculator.dll
+H:\CS161\TimeCalculator\obj\Debug\net8.0-windows\refint\TimeCalculator.dll
+H:\CS161\TimeCalculator\obj\Debug\net8.0-windows\TimeCalculator.pdb
+H:\CS161\TimeCalculator\obj\Debug\net8.0-windows\TimeCalculator.genruntimeconfig.cache
+H:\CS161\TimeCalculator\obj\Debug\net8.0-windows\ref\TimeCalculator.dll
